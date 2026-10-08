@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2qneqn9tdkxqv.js"
+3:I[11414,["$2"],"Providers"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/_next/static/chunks/2n5qeheznvl4u.js"
+7:I[22016,["$2","$6"],""]
+e:I[97367,["$2"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+16:I[27201,["$2"],"IconMark"]
+:HL["/_next/static/chunks/1-k9t-9r6rq3l.css","style"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"mx-auto flex min-h-[100dvh] max-w-[1440px] flex-col items-start justify-center gap-6 px-6 md:px-20","children":[["$","h1",null,{"className":"font-display text-5xl font-semibold tracking-[-0.02em]","children":"Page not found"}],["$","$L7",null,{"href":"/","className":"text-lg font-medium underline underline-offset-4","children":"Back to the home page"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/2n5qeheznvl4u.js","async":true}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+a:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-k9t-9r6rq3l.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2qneqn9tdkxqv.js","async":true}]],["$","html",null,{"lang":"en","className":"-CZIBa_variable VgNKAq_variable","children":["$","body",null,{"className":"bg-bg font-sans text-ink","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","main",null,{"className":"mx-auto flex min-h-[100dvh] max-w-[1440px] flex-col items-start justify-center gap-6 px-6 md:px-20","children":[["$","h1",null,{"className":"font-display text-5xl font-semibold tracking-[-0.02em]","children":"Page not found"}],["$","$L7",null,{"href":"/","className":"text-lg font-medium underline underline-offset-4","children":"Back to the home page"}]]}],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#E7EAEC","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#14181B","media":"(prefers-color-scheme: dark)"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Andrey Kolesnikov · Engineering meets business"}],["$","meta","1",{"name":"description","content":"CTO at Alles LMS, AI/ML R&D at T-Bank, co-founder of MIPT Business Club. I build products where engineering meets business."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://andreykolesnikov.github.io/"}],["$","meta","4",{"property":"og:title","content":"Andrey Kolesnikov · Engineering meets business"}],["$","meta","5",{"property":"og:description","content":"CTO at Alles LMS, AI/ML R&D at T-Bank, co-founder of MIPT Business Club. I build products where engineering meets business."}],["$","meta","6",{"property":"og:url","content":"https://andreykolesnikov.github.io/"}],["$","meta","7",{"property":"og:site_name","content":"Andrey Kolesnikov"}],["$","meta","8",{"property":"og:image","content":"https://andreykolesnikov.github.io/og.png"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Andrey Kolesnikov"}],["$","meta","12",{"property":"og:type","content":"profile"}],["$","meta","13",{"property":"profile:first_name","content":"Andrey"}],["$","meta","14",{"property":"profile:last_name","content":"Kolesnikov"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Andrey Kolesnikov · Engineering meets business"}],["$","meta","17",{"name":"twitter:description","content":"CTO at Alles LMS, AI/ML R&D at T-Bank, co-founder of MIPT Business Club. I build products where engineering meets business."}],["$","meta","18",{"name":"twitter:image","content":"https://andreykolesnikov.github.io/og.png"}],["$","link","19",{"rel":"icon","href":"/icon.svg?icon.2fwg-gw52xx6p.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","20",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"MpMN33bdhj82-NbSLyRq3"}
+10:null
+9:300
+19:true
+9:C
+18:0
+b:"$undefined"
+8:"$undefined"
+17:"$undefined"
+11:"$undefined"

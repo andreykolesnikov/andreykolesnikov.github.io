@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /og/
+
+Sitemap: https://andreykolesnikov.github.io/sitemap.xml
